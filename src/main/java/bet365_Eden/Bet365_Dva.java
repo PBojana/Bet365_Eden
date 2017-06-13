@@ -110,7 +110,7 @@ public class Bet365_Dva  {
 	    	 
 	        final String username = "jenkinss4e@gmail.com";
 	        final String password = "Passwords4e";
-	        String to = "tomi.pocevski@gmail.com";
+	        String to ="bo_sale@hotmail.com";// "tomi.pocevski@gmail.com";
 	        		
 	        Properties props = new Properties();
 	        props.put("mail.smtp.auth", "true");
