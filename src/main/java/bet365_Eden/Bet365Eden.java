@@ -25,7 +25,7 @@ import javax.mail.PasswordAuthentication;
  
 
 
-public class Bet365_eden  {
+public class Bet365Eden  {
 
 
 	public WebDriver driver;
